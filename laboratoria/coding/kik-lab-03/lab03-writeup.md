@@ -2,6 +2,7 @@
 ## Opracowanie zestawu zadań (część teoretyczna)
 ### Kacper Bednarczuk
 
+---
 ### Zadanie 1.1: Konwersja bazowa
 
 **a) 50**
